@@ -1,0 +1,46 @@
+
+
+
+h1{
+    text-align:center;
+    color:purple;
+}
+.browser-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: left;
+    text-align: center;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.browser-title {
+    font-size: 18px;
+    text-align: center;
+    color:brown;
+    font-weight: bold;
+    margin: 0;
+}
+h1{
+    text-align:center;
+    color:blue;
+}
+#footer {
+    background-color: purple;
+    color: green;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px; /* Optional: adjust the font size */
+}
+.browser-title {
+    font-size: 18px;
+
+    color:midnightblue;
+    font-weight: bold;
+    margin: 0;
+}
